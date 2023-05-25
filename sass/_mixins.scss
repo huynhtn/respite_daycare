@@ -1,0 +1,5 @@
+@mixin fontStyles($fontSize, $color, $align) {
+  font-size: $fontSize;
+  color: $color;
+  text-align: $align;
+}
